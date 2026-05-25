@@ -1,5 +1,4 @@
-‎
-# 👋 Welcome to DataZation Technologies
+ # 👋 Welcome to DataZation Technologies
 
 We design and build scalable, resilient systems for modern enterprises.  
 Led by a **Systems Architect** passionate about scalable distributed architectures.
