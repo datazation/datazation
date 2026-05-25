@@ -1,23 +1,24 @@
 ‎# 👋 Welcome to DataZation Technologies
 
-We design and build scalable, resilient systems for modern enterprises.  ‎
-Led by a **Systems Architect** passionate about scalable distributed architectures.‎
+We design and build scalable, resilient systems for modern enterprises.  
+Led by a **Systems Architect** passionate about scalable distributed architectures.
 
-‎---‎
+---
 
-‎## 🔧 Expertise
-‎- Systems Architecture Design  ‎
-‎- Infrastructure & Automation  ‎
-‎- Friendly User Interface  ‎
-‎- Distributed Systems & Scalability  ‎
+## 🔧 Expertise
+- Systems Architecture Design  
+- Infrastructure & Automation  
+- Friendly User Interface  
+- Distributed Systems & Scalability  
 
-‎---‎
+---
 
-‎## 🌟 What We Do
-At **DataZation Technologies**, we focus on:‎
-‎- Building modern architectures that scale with business needs  ‎
-‎- Designing resilient systems  ‎
-‎- Driving innovation through automation  ‎
+## 🌟 What We Do
+At **DataZation Technologies**, we focus on:
+- Building modern architectures that scale with business needs  
+- Designing resilient systems  
+- Driving innovation through automation  
+‎
 
 
 <!--
